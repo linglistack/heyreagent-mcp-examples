@@ -33,6 +33,10 @@ Paste the prompt into your AI app after connecting the MCP server. The app runs 
 | [inbox-triage](recipes/inbox-triage.md) | Refresh the inbox, answer everyone waiting on you. |
 | [funding-signals](recipes/funding-signals.md) | Recently funded companies, then their decision makers. Agent plan. |
 
+## n8n workflows
+
+Importable, read-only n8n workflows in [n8n/](n8n/): a weekday morning brief (who is waiting on your reply), a weekly cold-conversation radar, and a daily usage guard. They call the plain API on a schedule and send nothing. See [n8n/README.md](n8n/README.md) for import steps and the key setup.
+
 ## Pricing
 
 Free tier: every Connect action, for live use. LinkedIn disconnects after an hour without use, so a workflow on a schedule needs the Connect plan at $29.99/mo, which keeps LinkedIn connected. The Agent plan ($499/mo, 7-day free trial) adds 5 more actions and runs LinkedIn for you. Details: [heyreagent.com/pricing](https://heyreagent.com/pricing).
