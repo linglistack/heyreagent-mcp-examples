@@ -32,6 +32,8 @@ Paste the prompt into your AI app after connecting the MCP server. The app runs 
 | [mine-post-engagers](recipes/mine-post-engagers.md) | Turn post reactors and commenters into invitations. |
 | [inbox-triage](recipes/inbox-triage.md) | Refresh the inbox, answer everyone waiting on you. |
 | [funding-signals](recipes/funding-signals.md) | Recently funded companies, then their decision makers. Agent plan. |
+| [connections-never-messaged](recipes/connections-never-messaged.md) | Connections you never messaged, with drafted first messages. |
+| [engagers-not-connected](recipes/engagers-not-connected.md) | People who engaged with a post but are not connections yet. |
 
 ## n8n workflows
 
