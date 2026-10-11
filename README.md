@@ -34,6 +34,8 @@ Paste the prompt into your AI app after connecting the MCP server. The app runs 
 | [funding-signals](recipes/funding-signals.md) | Recently funded companies, then their decision makers. Agent plan. |
 | [connections-never-messaged](recipes/connections-never-messaged.md) | Connections you never messaged, with drafted first messages. |
 | [engagers-not-connected](recipes/engagers-not-connected.md) | People who engaged with a post but are not connections yet. |
+| [watch-prospect-posts](recipes/watch-prospect-posts.md) | A prospect's or competitor's recent posts, ranked, with drafted comments. |
+| [mute-and-clear-chats](recipes/mute-and-clear-chats.md) | Mark finished chats read and mute stale group chats, approval first. |
 
 ## n8n workflows
 
